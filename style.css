@@ -1,0 +1,29 @@
+body{
+    background-color: #8FC1D4;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+}
+h1{
+    font-family: 'Bebas Neue', serif;
+    font-size: 50px;
+}
+h3{
+    font-family: 'Anton', serif;
+    letter-spacing: 1px;
+}
+
+
+
+.top-name{
+    margin: 0 auto 0 20px;
+    letter-spacing: 2px;
+}
+.top-description{
+    margin: 0 auto 5px 20px;
+
+    
+
+}
